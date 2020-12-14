@@ -1,4 +1,6 @@
 /* Add all your styles here */
+h1 { color : red ;}
+
 table { border-color:#efefef;
 padding-left:5px;
 background-color:#f8f8ff;
